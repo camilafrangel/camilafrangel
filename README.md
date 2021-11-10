@@ -16,4 +16,6 @@ Sou aluna da turma 7 da Resilia Educação onde venho aprendendo sobre HTML, CSS
      <a href="mailto:camilafariasrangel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.behance.net/camilarangel1"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
   <a href="https://www.instagram.com/camilarangel.dsgn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://www.codewars.com/users/cafrangel"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
   </div>
+
