@@ -5,8 +5,8 @@ Sou aluna da turma 7 da Resilia Educação onde venho aprendendo sobre HTML, CSS
 
 <div align="center">
   <a href="https://github.com/cafrangel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cafrangel&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=E05D2A&text_color=FFFFFF&title_color=004C8E&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafrangel&layout=compact&hide_border=true&bg_color=0D1117&title_color=004C8E&text_color=FFFFFF&langs_count=7&"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cafrangel&show_icons=true&hide_border=true&bg_color=004C8E&icon_color=E05D2A&text_color=FFFFFF&title_color=FFFFFF&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafrangel&layout=compact&hide_border=true&bg_color=004C8E&title_color=FFFFFF&text_color=FFFFFF&langs_count=7&"/>
 </div>
   
   <h2 align="center"> Onde me encontrar: </h2>
